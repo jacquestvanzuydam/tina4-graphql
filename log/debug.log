@@ -1,0 +1,514 @@
+2023-07-08 11:28:45: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:28:45: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:28:45: SubFolder: 
+2023-07-08 11:28:45: Creating CSS file: default.css
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 GET - /
+2023-07-08 11:28:46: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Looking in routes for GET - /
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /migrate/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /migrations/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /migration/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /cache/clear/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /migrate/create/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /migrations/create/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /migration/create/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> POST
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> POST
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> POST
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /phpinfo/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /xdebuginfo/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Method match GET -> GET
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Matching // -> /swagger/json.json/
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 URL Last Resort GET - /index
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 TINA4 Filename: /index
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Looking for file index
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Returning File not found index
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 TINA4 Filename: documentation/index
+2023-07-08 11:28:46: FFF30C43-20C6-493B-82E9-BE81B1010196 Looking for file /Users/jacquesvanzuydam/Projects/tina4-graphql/src/templates/documentation/index.twig
+2023-07-08 11:28:46: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:28:46: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:28:46: SubFolder: 
+2023-07-08 11:28:46: Creating CSS file: default.css
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 GET - /src/templates/documentation/default.css
+2023-07-08 11:28:46: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Looking in routes for GET - /src/templates/documentation/default.css
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /migrate/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /migrations/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /migration/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /cache/clear/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /migrate/create/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /migrations/create/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /migration/create/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> POST
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> POST
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> POST
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /phpinfo/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /xdebuginfo/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Method match GET -> GET
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Matching /src/templates/documentation/default.css/ -> /swagger/json.json/
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 URL Last Resort GET - /src/templates/documentation/default.css
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 TINA4 Filename: /src/templates/documentation/default.css
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Looking for file src/templates/documentation/default.css
+2023-07-08 11:28:46: ED46C94B-C665-4F65-AC7B-C8A38E01D688 Found src/templates/documentation/default.css
+2023-07-08 11:28:47: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:28:47: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:28:47: SubFolder: 
+2023-07-08 11:28:47: Creating CSS file: default.css
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 GET - /images/logo.png
+2023-07-08 11:28:47: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Looking in routes for GET - /images/logo.png
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /migrate/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /migrations/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /migration/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /cache/clear/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /migrate/create/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /migrations/create/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /migration/create/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> POST
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> POST
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> POST
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /phpinfo/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /xdebuginfo/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Method match GET -> GET
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Matching /images/logo.png/ -> /swagger/json.json/
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 URL Last Resort GET - /images/logo.png
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 TINA4 Filename: /images/logo.png
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Looking for file /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/logo.png
+2023-07-08 11:28:47: B48BE9F0-D5BD-4330-A1FC-3016341D5221 Found /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/logo.png
+2023-07-08 11:28:47: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:28:47: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:28:47: SubFolder: 
+2023-07-08 11:28:47: Creating CSS file: default.css
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 GET - /images/burger.svg
+2023-07-08 11:28:47: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Looking in routes for GET - /images/burger.svg
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /migrate/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /migrations/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /migration/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /cache/clear/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /migrate/create/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /migrations/create/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /migration/create/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> POST
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> POST
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> POST
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /phpinfo/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /xdebuginfo/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Method match GET -> GET
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Matching /images/burger.svg/ -> /swagger/json.json/
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 URL Last Resort GET - /images/burger.svg
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 TINA4 Filename: /images/burger.svg
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Looking for file /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/burger.svg
+2023-07-08 11:28:47: 4E30515E-9661-4E08-88D9-531F9730D079 Found /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/burger.svg
+2023-07-08 11:28:47: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:28:47: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:28:47: SubFolder: 
+2023-07-08 11:28:47: Creating CSS file: default.css
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 GET - /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:28:47: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Looking in routes for GET - /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrate/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrations/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /migration/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /cache/clear/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrate/create/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrations/create/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /migration/create/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> POST
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> POST
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> POST
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /phpinfo/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /xdebuginfo/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Method match GET -> GET
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Matching /src/templates/documentation/images/debugging-env.png/ -> /swagger/json.json/
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 URL Last Resort GET - /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 TINA4 Filename: /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Looking for file src/templates/documentation/images/debugging-env.png
+2023-07-08 11:28:47: 3020513F-F0E2-4BD0-A725-28DAEAD29A69 Found src/templates/documentation/images/debugging-env.png
+2023-07-08 11:28:47: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:28:47: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:28:47: SubFolder: 
+2023-07-08 11:28:47: Creating CSS file: default.css
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 GET - /src/templates/documentation/images/debugging.png
+2023-07-08 11:28:47: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Looking in routes for GET - /src/templates/documentation/images/debugging.png
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /migrate/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /migrations/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /migration/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /cache/clear/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /migrate/create/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /migrations/create/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /migration/create/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> POST
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> POST
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> POST
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /phpinfo/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /xdebuginfo/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Method match GET -> GET
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Matching /src/templates/documentation/images/debugging.png/ -> /swagger/json.json/
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 URL Last Resort GET - /src/templates/documentation/images/debugging.png
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 TINA4 Filename: /src/templates/documentation/images/debugging.png
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Looking for file src/templates/documentation/images/debugging.png
+2023-07-08 11:28:47: 319B45C3-7373-45D2-BBCB-B43ABB332058 Found src/templates/documentation/images/debugging.png
+2023-07-08 11:28:47: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:28:47: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:28:47: SubFolder: 
+2023-07-08 11:28:47: Creating CSS file: default.css
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD GET - /favicon.ico
+2023-07-08 11:28:47: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Looking in routes for GET - /favicon.ico
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /migrate/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /migrations/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /migration/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /cache/clear/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /migrate/create/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /migrations/create/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /migration/create/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> POST
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> POST
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> POST
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /phpinfo/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /xdebuginfo/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Method match GET -> GET
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Matching /favicon.ico/ -> /swagger/json.json/
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD URL Last Resort GET - /favicon.ico
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD TINA4 Filename: /favicon.ico
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Looking for file favicon.ico
+2023-07-08 11:28:47: FDA1B6D1-A9E8-4529-A947-BC4B09131DAD Found favicon.ico
+2023-07-08 11:32:35: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:32:35: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:32:35: SubFolder: 
+2023-07-08 11:32:35: Creating CSS file: default.css
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 GET - /
+2023-07-08 11:32:35: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Looking in routes for GET - /
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /migrate/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /migrations/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /migration/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /cache/clear/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /migrate/create/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /migrations/create/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /migration/create/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> POST
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> POST
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> POST
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /phpinfo/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /xdebuginfo/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Method match GET -> GET
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Matching // -> /swagger/json.json/
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 URL Last Resort GET - /index
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 TINA4 Filename: /index
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Looking for file index
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Returning File not found index
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 TINA4 Filename: documentation/index
+2023-07-08 11:32:35: 1757A4FA-58B4-45FD-87AF-1E94EC26A372 Looking for file /Users/jacquesvanzuydam/Projects/tina4-graphql/src/templates/documentation/index.twig
+2023-07-08 11:32:35: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:32:35: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:32:35: SubFolder: 
+2023-07-08 11:32:35: Creating CSS file: default.css
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D GET - /src/templates/documentation/default.css
+2023-07-08 11:32:35: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Looking in routes for GET - /src/templates/documentation/default.css
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /migrate/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /migrations/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /migration/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /cache/clear/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /migrate/create/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /migrations/create/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /migration/create/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> POST
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> POST
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> POST
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /phpinfo/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /xdebuginfo/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Method match GET -> GET
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Matching /src/templates/documentation/default.css/ -> /swagger/json.json/
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D URL Last Resort GET - /src/templates/documentation/default.css
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D TINA4 Filename: /src/templates/documentation/default.css
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Looking for file src/templates/documentation/default.css
+2023-07-08 11:32:35: 97EFA5DE-538B-4592-8037-D5FB5EE9FC2D Found src/templates/documentation/default.css
+2023-07-08 11:32:35: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:32:35: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:32:35: SubFolder: 
+2023-07-08 11:32:35: Creating CSS file: default.css
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 GET - /images/logo.png
+2023-07-08 11:32:35: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Looking in routes for GET - /images/logo.png
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /migrate/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /migrations/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /migration/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /cache/clear/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /migrate/create/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /migrations/create/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /migration/create/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> POST
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> POST
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> POST
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /phpinfo/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /xdebuginfo/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Method match GET -> GET
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Matching /images/logo.png/ -> /swagger/json.json/
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 URL Last Resort GET - /images/logo.png
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 TINA4 Filename: /images/logo.png
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Looking for file /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/logo.png
+2023-07-08 11:32:35: A50D1B63-7F9C-4CCD-93A3-411F1F40DE62 Found /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/logo.png
+2023-07-08 11:32:35: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:32:35: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:32:35: SubFolder: 
+2023-07-08 11:32:35: Creating CSS file: default.css
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 GET - /images/burger.svg
+2023-07-08 11:32:35: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Looking in routes for GET - /images/burger.svg
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /migrate/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /migrations/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /migration/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /cache/clear/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /migrate/create/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /migrations/create/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /migration/create/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> POST
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> POST
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> POST
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /phpinfo/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /xdebuginfo/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Method match GET -> GET
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Matching /images/burger.svg/ -> /swagger/json.json/
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 URL Last Resort GET - /images/burger.svg
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 TINA4 Filename: /images/burger.svg
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Looking for file /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/burger.svg
+2023-07-08 11:32:35: 25C0A5EB-E0FD-4D7F-975B-F673C3464002 Found /Users/jacquesvanzuydam/Projects/tina4-graphql/src/public/images/burger.svg
+2023-07-08 11:32:35: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:32:35: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:32:35: SubFolder: 
+2023-07-08 11:32:35: Creating CSS file: default.css
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 GET - /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:32:35: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Looking in routes for GET - /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrate/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrations/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /migration/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /cache/clear/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrate/create/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /migrations/create/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /migration/create/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> POST
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> POST
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> POST
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /phpinfo/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /xdebuginfo/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Method match GET -> GET
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Matching /src/templates/documentation/images/debugging-env.png/ -> /swagger/json.json/
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 URL Last Resort GET - /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 TINA4 Filename: /src/templates/documentation/images/debugging-env.png
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Looking for file src/templates/documentation/images/debugging-env.png
+2023-07-08 11:32:35: CD22E9D5-0794-47F1-9C76-E72FB7E11AA8 Found src/templates/documentation/images/debugging-env.png
+2023-07-08 11:32:35: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:32:35: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:32:35: SubFolder: 
+2023-07-08 11:32:35: Creating CSS file: default.css
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 GET - /src/templates/documentation/images/debugging.png
+2023-07-08 11:32:35: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Looking in routes for GET - /src/templates/documentation/images/debugging.png
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /migrate/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /migrations/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /migration/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /cache/clear/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /migrate/create/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /migrations/create/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /migration/create/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> POST
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> POST
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> POST
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /phpinfo/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /xdebuginfo/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Method match GET -> GET
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Matching /src/templates/documentation/images/debugging.png/ -> /swagger/json.json/
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 URL Last Resort GET - /src/templates/documentation/images/debugging.png
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 TINA4 Filename: /src/templates/documentation/images/debugging.png
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Looking for file src/templates/documentation/images/debugging.png
+2023-07-08 11:32:35: 821EE94C-F5D8-4DC9-94F6-424C7DAF3C79 Found src/templates/documentation/images/debugging.png
+2023-07-08 11:32:36: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:32:36: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:32:36: SubFolder: 
+2023-07-08 11:32:36: Creating CSS file: default.css
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 GET - /favicon.ico
+2023-07-08 11:32:36: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Looking in routes for GET - /favicon.ico
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /migrate/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /migrations/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /migration/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /cache/clear/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /migrate/create/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /migrations/create/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /migration/create/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> POST
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> POST
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> POST
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /phpinfo/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /xdebuginfo/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Method match GET -> GET
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Matching /favicon.ico/ -> /swagger/json.json/
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 URL Last Resort GET - /favicon.ico
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 TINA4 Filename: /favicon.ico
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Looking for file favicon.ico
+2023-07-08 11:32:36: CC96C35B-1E16-4271-A20A-8EFEBF17BA04 Found favicon.ico
+2023-07-08 11:33:08: Project Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/vendor/tina4stack/
+2023-07-08 11:33:08: Document Root: /Users/jacquesvanzuydam/Projects/tina4-graphql/
+2023-07-08 11:33:08: SubFolder: 
+2023-07-08 11:33:08: Creating CSS file: default.css
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB GET - /favicon.ico
+2023-07-08 11:33:08: TINA4: Twig Paths - Array(    [0] => cache    [1] => src/templates    [2] => src/public    [3] => src/assets    [4] => src/templates/snippets)
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Looking in routes for GET - /favicon.ico
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /migrate/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /migrations/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /migration/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /cache/clear/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /migrate/create/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /migrations/create/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /migration/create/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> POST
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> POST
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> POST
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /phpinfo/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /xdebuginfo/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Method match GET -> GET
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Matching /favicon.ico/ -> /swagger/json.json/
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB URL Last Resort GET - /favicon.ico
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB TINA4 Filename: /favicon.ico
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Looking for file favicon.ico
+2023-07-08 11:33:08: 835CBA31-9EE1-434F-B56E-1255651843BB Found favicon.ico
